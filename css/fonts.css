@@ -1,0 +1,56 @@
+@font-face {
+    font-family: 'Atomic Age';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('../fonts/atomic-age-v25-latin-regular.woff2') format('woff2'),
+    url('../fonts/atomic-age-v25-latin-regular.woff') format('woff');
+}
+
+@font-face {
+    font-family: 'SF Pro Text';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''),
+    url('../fonts/FontsFree-Net-SFProText-Bold-1.ttf') format('ttf');
+}
+
+@font-face {
+    font-family: 'Metropolis-Light';
+    font-style: normal;
+    font-weight: 300;
+    src: local(''),
+    url('../fonts/Metropolis-Light.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Metropolis-Regular';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+    url('../fonts/Metropolis-Regular.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Metropolis-Medium';
+    font-style: normal;
+    font-weight: 500;
+    src: local(''),
+    url('../fonts/Metropolis-Medium.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Metropolis-ExtraBold';
+    font-style: normal;
+    font-weight: 800;
+    src: local(''),
+    url('../fonts/Metropolis-ExtraBold.otf') format('otf');
+}
+
+@font-face {
+    font-family: 'Metropolis-Black';
+    font-style: normal;
+    font-weight: 900;
+    src: local(''),
+    url('../fonts/Metropolis-Black.otf') format('otf');
+}
